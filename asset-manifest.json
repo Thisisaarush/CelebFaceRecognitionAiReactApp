@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CelebFaceRecognitionAiReactApp/static/css/main.10288e5a.chunk.css",
+    "main.js": "/CelebFaceRecognitionAiReactApp/static/js/main.a1cee3ea.chunk.js",
+    "main.js.map": "/CelebFaceRecognitionAiReactApp/static/js/main.a1cee3ea.chunk.js.map",
+    "runtime-main.js": "/CelebFaceRecognitionAiReactApp/static/js/runtime-main.b44edb98.js",
+    "runtime-main.js.map": "/CelebFaceRecognitionAiReactApp/static/js/runtime-main.b44edb98.js.map",
+    "static/js/2.e8cd4aef.chunk.js": "/CelebFaceRecognitionAiReactApp/static/js/2.e8cd4aef.chunk.js",
+    "static/js/2.e8cd4aef.chunk.js.map": "/CelebFaceRecognitionAiReactApp/static/js/2.e8cd4aef.chunk.js.map",
+    "static/js/3.f11b0bf6.chunk.js": "/CelebFaceRecognitionAiReactApp/static/js/3.f11b0bf6.chunk.js",
+    "static/js/3.f11b0bf6.chunk.js.map": "/CelebFaceRecognitionAiReactApp/static/js/3.f11b0bf6.chunk.js.map",
+    "index.html": "/CelebFaceRecognitionAiReactApp/index.html",
+    "static/css/main.10288e5a.chunk.css.map": "/CelebFaceRecognitionAiReactApp/static/css/main.10288e5a.chunk.css.map",
+    "static/js/2.e8cd4aef.chunk.js.LICENSE.txt": "/CelebFaceRecognitionAiReactApp/static/js/2.e8cd4aef.chunk.js.LICENSE.txt",
+    "static/media/logo.2b95eefe.png": "/CelebFaceRecognitionAiReactApp/static/media/logo.2b95eefe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b44edb98.js",
+    "static/js/2.e8cd4aef.chunk.js",
+    "static/css/main.10288e5a.chunk.css",
+    "static/js/main.a1cee3ea.chunk.js"
+  ]
+}
