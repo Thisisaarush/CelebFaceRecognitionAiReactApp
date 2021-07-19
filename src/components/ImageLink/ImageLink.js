@@ -1,7 +1,7 @@
 import React from 'react';
 import './ImageLink.css';
 
-const ImageLink = ({ onButtonClick, onInputChange, name, rank }) => {
+const ImageLink = ({ onButtonClick, onInputChange}) => {
   return (
     <div className='imagelink-container' >
       <div style={{display: 'flex', justifyContent: 'center', margin: '10px'}}>

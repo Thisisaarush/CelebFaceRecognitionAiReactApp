@@ -24,7 +24,7 @@ class Register extends React.Component {
   }
 
   onButtonRegister = () => {
-    fetch('https://pure-gorge-23737.herokuapp.com/register', {
+    fetch('https://localhost:3000/register', {
       method: 'post',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
