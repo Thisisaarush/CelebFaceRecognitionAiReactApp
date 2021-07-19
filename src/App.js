@@ -13,7 +13,7 @@ import Rank from './components/Rank/Rank';
 const initialState = {
   input: '',
   imageUrl: '',
-  route: 'signin',
+  route: 'home',
   isSignedIn: false,
   user: {
     id: '',
