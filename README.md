@@ -9,10 +9,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Clone this repo and do `npm install`
 
-### Checkout front-end at [Project Github Page](https://thisisaarush.github.io/CelebFaceRecognitionAiReactApp/)
-
-#### Removed sign-in restrictions, Just click on 'Sign In' button without filling details.
-
 #### The Backend of this project is at [CelebFaceRecognitionAiReactApp-Api](https://github.com/Thisisaarush/CelebFaceRecognitionAiReactApp-Api)
 
 ## Available Scripts
