@@ -49,7 +49,7 @@ class App extends React.Component  {
     if (this.state.input) {
       this.setState({imageUrl: this.state.input});
       
-      fetch('https://pure-gorge-23737.herokuapp.com/imageUrl', {
+      fetch('https://localhost:3000/imageUrl', {
           method: 'post',
           headers: {'Content-Type': 'application/json'},
           body: JSON.stringify
@@ -60,7 +60,7 @@ class App extends React.Component  {
         .then(response => response.json())
         .then (response => {
           if (response) {
-            fetch('https://pure-gorge-23737.herokuapp.com/image', {
+            fetch('https://localhost:3000/image', {
               method: 'put',
               headers: {'Content-Type': 'application/json'},
               body: JSON.stringify
